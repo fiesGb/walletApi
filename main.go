@@ -11,7 +11,7 @@ import (
 	"github.com/gin-gonic/gin"
 	jose "gopkg.in/square/go-jose.v2"
 
-	"github.com/Pungyeon/golang-auth0-example/handlers"
+	"github.com/fiesgb/walletApi/handlers"
 )
 
 var (
